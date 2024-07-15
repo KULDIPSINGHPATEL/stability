@@ -1,1 +1,2 @@
 Supplementary Material for the paper "A Difference Equation Based Approach for the Stability And Robustness of High-Order Compact Schemes for Variable Coefficient Parabolic PDEs"
+There, the algorithms computes the symbolic expressions for $D^1_N$, gives the symbolic/numerical values for the roots of $D^1_N$. Further, it makes use of the theorem to conclude the stability of the compact scheme under the specific choices of parameters entered by a user
